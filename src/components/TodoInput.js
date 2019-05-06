@@ -25,6 +25,6 @@ export default class TodoInput extends Component {
                 :"btn btn-block btn-primary mt-3"}> {editItem?"Edit Item":"Add Item"}</button>
       </form>
       </div>
-    );
+    )
   }
 }
